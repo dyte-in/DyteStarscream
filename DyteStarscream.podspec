@@ -6,7 +6,7 @@ s.description  = "Logically separate the responsibility of video calling logic a
 s.homepage     = "https://dyte.io/"
 s.license      = { :type => 'MIT', :file => 'LICENSE' }
 s.author           = { 'Dyte' => 'dev@dyte.io' }
-s.source = { :git => "https://github.com/dyte-in/DyteMobileCoreiOS.git", :tag => s.version.to_s }
+s.source = { :git => "https://github.com/dyte-in/DyteStarscream.git", :tag => s.version.to_s }
 s.vendored_frameworks = "Starscream.xcframework"
 s.platform = :ios
 s.swift_version = "5.0"
